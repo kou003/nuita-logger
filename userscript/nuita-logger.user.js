@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         nuita-logger
 // @namespace    https://github.com/kou003/
-// @version      0.1.1
-// @description  nuita-logger 
+// @version      0.1.2
+// @description  nuita-logger
 // @author       kou003
 // @match        *://nhentai.net/g/*
 // @match        *://*.nijie.info/view.php?*
